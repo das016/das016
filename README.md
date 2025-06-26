@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @das016
 - 👀 I’m interested in ...Information Technology and Technical Writing.
-- 🌱 I’m currently learning ...Intro. to Computer Programming
+- 🌱 I’m currently learning...about Database Concepts (SQL) and Introduction to Management Information Systems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...daveedsclic@gmail.com
 - 😄 Pronouns: ...He/Him
